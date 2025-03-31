@@ -12,10 +12,14 @@ I'm currently working on Cybersecurity
 ![](https://nirzak-streak-stats.vercel.app/?user=PrNth4676&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrNth4676&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## GitHub Commit Snake Game
+![snake gif](https://github.com/PrNth4676/PrNth4676/blob/output/github-snake-dark.svg)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=PrNth4676&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PrNth4676&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
