@@ -2,9 +2,9 @@
 # I'm Pratik Nath
 
 ## A little bit about me 💻 :
-* Senior Consultant at [Infosys]([url](https://www.infosys.com/)) working on Vulnerability Management with focus on Intelligence Analysis and Remediation.
-* Graduated from [NIIT University]([url](https://niituniversity.in/)) with a Master's in Cybersecurity
-* Passionate in Malware Development and Analysis. 
+- Senior Consultant at [Infosys]([url](https://www.infosys.com/)) working on Vulnerability Management with focus on Intelligence Analysis and Remediation.
+- Graduated from [NIIT University]([url](https://niituniversity.in/)) with a Master's in Cybersecurity
+- Passionate in Malware Development and Analysis. 
 
 
 ## 🌐 Socials:
