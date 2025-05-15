@@ -23,8 +23,8 @@
 # 📊 GitHub Stats:
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api?username=PrNth4676&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=PrNth4676&theme=dark)](https://git.io/streak-stats)
+  ![](https://github-readme-stats.vercel.app/api?username=PrNth4676&theme=dark&show_icons=true)<br/>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PrNth4676&theme=dark)](https://git.io/streak-stats)<br/>
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrNth4676&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 </div>
 
