@@ -20,19 +20,19 @@
   ![Selenium](https://img.shields.io/badge/Selenium-7bc769?logo=Selenium&logoColor=white)
 </div>
   
-# 📊 GitHub Stats:
-<div align="center">
+# 📊 GitHub Stats<<Under Maintenance>>:
+<!-- <div align="center">
   
   [![Total_Commits](https://github-readme-stats.vercel.app/api?username=PrNth4676&include_all_commits=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)<br/>
   [![GitHub Streak](https://streak-stats.demolab.com?user=PrNth4676&theme=dark)](https://git.io/streak-stats)<br/>
   ![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrNth4676&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-</div>
+</div> -->
 
-## Visitor Count:
-<div align="center">
+## Visitor Count<<Under Maintenance>>:
+<!-- <div align="center">
   
   ![Visitor Count](https://profile-counter.glitch.me/{PrNth4676}/count.svg)
-</div>
+</div> -->
 
 ## GitHub Commit Snake Game:
 <div align="center">
